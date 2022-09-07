@@ -6,7 +6,7 @@
 		86,400,000 => 1day(24hr)
 */
 
-setTimeout(yellow, 2400000)
+setTimeout(yellow, 60000)
 
 function yellow(){
 	document.getElementById('h1').style.color = "yellow";
